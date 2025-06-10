@@ -1,0 +1,4 @@
+||adengine.telewebion.com^$domain=telewebion.com
+||analytics.telewebion.com^$domain=telewebion.com
+||data.telewebion.com^$domain=telewebion.com
+||simra.cloud^$domain=player.telewebion.com,third-party
