@@ -1,3 +1,12 @@
-
+||px.ads.linkedin.com^$third-party
+||js.hsadspixel.net^$third-party
+||js.hs-analytics.net^$third-party
+||js.hs-banner.com^$third-party
+||googletagmanager.com^$third-party
+||assets.trendemon.com^$third-party
+||syndication.twitter.com^$third-party
+||platform.twitter.com^$third-party
+||pagead2.googlesyndication.com^$third-party
+||srv.buysellads.com^$third-party
 google.com###bottomads
 google.com###tads
