@@ -1,0 +1,20 @@
+! --- Google Search Ads ---
+google.com##.ads-ad
+google.com##div[data-text-ad]
+google.com##div#tads
+google.com##div#bottomads
+google.com##[aria-label="Ads"]
+
+! --- YouTube Ad Elements ---
+youtube.com##.ytd-display-ad-renderer
+youtube.com##.ytd-video-masthead-ad-renderer
+youtube.com##ytd-promoted-sparkles-text-search-renderer
+youtube.com##ytd-in-feed-ad-layout-renderer
+youtube.com##.ad-container, .ad-div, .masthead-ad-control
+
+! --- YouTube Video Ad Network Requests ---
+||youtube.com/api/stats/ads
+||googleads.g.doubleclick.net/pagead/id
+||*.googlesyndication.com/*
+||*.doubleclick.net/*
+||googleads.g.doubleclick.net/pagead/viewthroughconversion/*
