@@ -259,3 +259,6 @@
 ||yume.com^
 ||zemanta.com^$third-party
 ||zeotap.com^$third-party
+||analytics.google.com^
+||yandex.ru^$third-party
+||pagead2.googlesyndication.com^
