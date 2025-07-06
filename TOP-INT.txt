@@ -41,6 +41,7 @@
 ||ads.bluelithium.com^
 ||ads.contextweb.com^
 ||ads.undertone.com^
+||ads-twitter.com^
 ||adsafeprotected.com^
 ||adsonar.com^
 ||adsrvr.org^
@@ -52,10 +53,12 @@
 ||advertising.com^
 ||agkn.com^
 ||akstat.io^
+||ahrefs.com^$third-party
 ||aktrack.pubmatic.com^
 ||amazon-adsystem.com^
 ||amplitude.com^$third-party
 ||appier.com^
+||adtidy.org
 ||appnexus.com^
 ||apture.com^
 ||aralego.com^
