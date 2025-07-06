@@ -11,6 +11,8 @@
 ||a.collective-media.net^
 ||abmr.net^$third-party
 ||acexedge.com^$third-party
+||ad-company.example^
+||ad-company.site^
 ||ad.crwdcntrl.net^
 ||ad.flurry.com^
 ||ad.gt^
@@ -63,10 +65,15 @@
 ||atwola.com^
 ||ay.delivery^
 ||bfmio.com^
+||bad.third-party.site^
+||broken.third-party.site^
+||do-not-tracker.org^
+||eviltracker.net^
+||trackersimulator.org^
 ||bidr.io^$third-party
 ||bidswitch.net^
-||bidswitch.net^$third-party
 ||bizible.com^$third-party
+||bing.com^$third-party
 ||blismedia.com^
 ||bluelithium.com^
 ||brandmetrics.com^$third-party
@@ -117,6 +124,7 @@
 ||exponential.com^
 ||eyeota.net^
 ||eyereturn.com^
+||facebook.net^$third-party
 ||fastclick.net^
 ||flashtalking.com^
 ||flurry.com^
