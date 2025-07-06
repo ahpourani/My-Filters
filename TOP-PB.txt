@@ -17,4 +17,4 @@
 ||sabavision.com^$third-party
 ||ads.telewebion.com^$domain=telewebion.com
 ||analytics.telewebion.com^$domain=telewebion.com
-||ads-azd1122.telewebion.com^$domain=telewebion.com
+||ads-azd*.telewebion.com^$domain=telewebion.com
