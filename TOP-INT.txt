@@ -3,6 +3,7 @@
 ||2o7.net^
 ||33across.com^
 ||360yield.com^
+||360yield-basi.com^
 ||3lift.com^
 ||4dex.io^
 ||7eer.net^$third-party
