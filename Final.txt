@@ -150,7 +150,7 @@
 ||aralego.com^$third-party
 ||aralego.net^$third-party
 ||artfut.com^$third-party
-||ascpqnj-oam.global.ssl.fastly.net^
+!||ascpqnj-oam.global.ssl.fastly.net^
 ||assemblyexchange.com^$third-party
 ||aswpsdkus.com^
 ||atanx.alicdn.com^
@@ -449,8 +449,8 @@
 ||googleoptimize.com^
 ||googlesyndication.com/ddm/
 ||googlesyndication.com/safeframe/
-! ||googletagmanager.com^
-! ||googletagservices.com^
+||googletagmanager.com^
+||googletagservices.com^
 ||grapeshot.co.uk^$third-party
 ||grs.hicloud.com^
 ||grsm.io^
