@@ -484,7 +484,7 @@
 ||ignimgs.com/ign/pogoadk.js$script,domain=ign.com
 ||im-apps.net^$third-party
 ||im.ov.yahoo.co.jp^
-||imasdk.googleapis.com^
+!||imasdk.googleapis.com^
 ||imasdk.googleapis.com^$domain=spiegel.de
 ||imdb.com/api/_ajax/metrics/
 ||imdb.com/tr/
