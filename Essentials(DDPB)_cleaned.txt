@@ -407,8 +407,6 @@
 ||iesnare.com^$third-party
 ||im-apps.net^$third-party
 ||im.ov.yahoo.co.jp^
-||imasdk.googleapis.com^
-||imasdk.googleapis.com^$domain=spiegel.de
 ||impact-ad.jp^
 ||impactcdn.com^
 ||impactradius-event.com^
