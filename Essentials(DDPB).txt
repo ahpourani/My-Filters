@@ -98,8 +98,8 @@
 ||aidata.io^$third-party
 ||airbrake.io^$third-party
 ||airpr.com^$third-party
-||akamaihd.net/.*.gif?e=
-||akamaihd.net^$image,domain=globalnews.ca|nycgo.com|stcatharinesstandard.ca
+!||akamaihd.net/.*.gif?e=
+!||akamaihd.net^$image,domain=globalnews.ca|nycgo.com|stcatharinesstandard.ca
 ||akstat.io^$third-party
 ||alb.reddit.com^
 ||alexametrics.com^$third-party
@@ -235,7 +235,7 @@
 ||cdn-net.com^$third-party
 ||cdn.ex.co^
 ||cdn.usefathom.com^
-||cedexis.com^$third-party
+!||cedexis.com^$third-party
 ||channelexco.com/player/$third-party
 ||chartbeat.com^$third-party
 ||chartbeat.net^$third-party
@@ -350,7 +350,7 @@
 ||dropbox.com/jse
 ||dropbox.com/log_
 ||dropbox.com/log/
-||ds-aksb-a.akamaihd.net^
+!||ds-aksb-a.akamaihd.net^
 ||dstillery.com^$third-party
 ||dull.bankofamerica.com^$raw,script,first-party
 ||dup.baidustatic.com^
@@ -759,7 +759,7 @@
 ||qq.com/report$
 ||qq.com/speed
 ||qq.com/stdlog
-||qsearch-a.akamaihd.net^
+!||qsearch-a.akamaihd.net^
 ||qualaroo.com^$third-party
 ||quantcount.com^$third-party
 ||quantserve.com^
