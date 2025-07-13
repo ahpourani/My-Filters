@@ -301,7 +301,7 @@
 ||ct.pinterest.com^
 ||ctnsnet.com^$third-party
 ||customer.homedepot.com^$script
-||cws.conviva.com^
+!||cws.conviva.com^
 ||cxense.com^
 ||d10lpsik1i8c69.cloudfront.net^
 ||d15kdpgjg3unno.cloudfront.net^
@@ -485,7 +485,7 @@
 ||im-apps.net^$third-party
 ||im.ov.yahoo.co.jp^
 !||imasdk.googleapis.com^
-||imasdk.googleapis.com^$domain=spiegel.de
+!||imasdk.googleapis.com^$domain=spiegel.de
 ||imdb.com/api/_ajax/metrics/
 ||imdb.com/tr/
 ||impact-ad.jp^
@@ -606,7 +606,7 @@
 ||medium.com/_/batch
 ||met.vgwort.de^
 ||metric.huya.com^
-||metrics.brightcove.com^
+!||metrics.brightcove.com^
 ||metrics.data.hicloud.com^
 ||metrics.elsevier.com^
 ||metrics.fortinet.com^
@@ -720,7 +720,7 @@
 ||pixel.mtrcs.samba.tv^
 ||pixel.wp.com^
 ||platform.iteratehq.com^
-||player-telemetry.vimeo.com^
+!||player-telemetry.vimeo.com^
 ||player.ex.co^$script,third-party
 ||player.sendtonews.com^$third-party
 ||players.brightcove.net^$script,domain=businessinsider.com.au|gizmodo.com.au|kotaku.com.au|lifehacker.com.au|pedestrian.tv
@@ -1033,9 +1033,9 @@
 ||vidora.com^$third-party
 ||vidstat.taboola.com^
 ||viglink.com/api/ping$third-party
-||vimeo.com/ablincoln/
-||vimeocdn.com/add/player-stats?
-||vimeocdn.com/ga/
+!||vimeo.com/ablincoln/
+!||vimeocdn.com/add/player-stats?
+!||vimeocdn.com/ga/
 ||visualstudio.com/v2/track
 ||visualwebsiteoptimizer.com^$third-party
 ||visx.net^$third-party
