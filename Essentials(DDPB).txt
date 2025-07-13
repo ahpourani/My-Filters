@@ -720,7 +720,7 @@
 ||pixel.mtrcs.samba.tv^
 ||pixel.wp.com^
 ||platform.iteratehq.com^
-!||player-telemetry.vimeo.com^
+||player-telemetry.vimeo.com^
 ||player.ex.co^$script,third-party
 ||player.sendtonews.com^$third-party
 ||players.brightcove.net^$script,domain=businessinsider.com.au|gizmodo.com.au|kotaku.com.au|lifehacker.com.au|pedestrian.tv
@@ -1033,9 +1033,9 @@
 ||vidora.com^$third-party
 ||vidstat.taboola.com^
 ||viglink.com/api/ping$third-party
-!||vimeo.com/ablincoln/
-!||vimeocdn.com/add/player-stats?
-!||vimeocdn.com/ga/
+||vimeo.com/ablincoln/
+||vimeocdn.com/add/player-stats?
+||vimeocdn.com/ga/
 ||visualstudio.com/v2/track
 ||visualwebsiteoptimizer.com^$third-party
 ||visx.net^$third-party
