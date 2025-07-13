@@ -301,7 +301,7 @@
 ||ct.pinterest.com^
 ||ctnsnet.com^$third-party
 ||customer.homedepot.com^$script
-!||cws.conviva.com^
+||cws.conviva.com^
 ||cxense.com^
 ||d10lpsik1i8c69.cloudfront.net^
 ||d15kdpgjg3unno.cloudfront.net^
@@ -350,7 +350,7 @@
 ||dropbox.com/jse
 ||dropbox.com/log_
 ||dropbox.com/log/
-!||ds-aksb-a.akamaihd.net^
+||ds-aksb-a.akamaihd.net^
 ||dstillery.com^$third-party
 ||dull.bankofamerica.com^$raw,script,first-party
 ||dup.baidustatic.com^
@@ -606,7 +606,7 @@
 ||medium.com/_/batch
 ||met.vgwort.de^
 ||metric.huya.com^
-!||metrics.brightcove.com^
+||metrics.brightcove.com^
 ||metrics.data.hicloud.com^
 ||metrics.elsevier.com^
 ||metrics.fortinet.com^
@@ -759,7 +759,7 @@
 ||qq.com/report$
 ||qq.com/speed
 ||qq.com/stdlog
-!||qsearch-a.akamaihd.net^
+||qsearch-a.akamaihd.net^
 ||qualaroo.com^$third-party
 ||quantcount.com^$third-party
 ||quantserve.com^
