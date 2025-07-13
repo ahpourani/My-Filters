@@ -556,7 +556,6 @@
 ||omappapi.com^
 ||omniconvert.com^$third-party
 ||omnitagjs.com^
-||omnitagjs.com^$domain=spiegel.de
 ||omns.americanexpress.com^
 ||omtrdc.net^
 ||onaudience.com^$third-party
@@ -656,7 +655,6 @@
 ||richaudience.com^$third-party
 ||rkdms.com^
 ||rlcdn.com^
-||rlcdn.com^$domain=autobild.de|widgets.outbrain.com
 ||rmtag.com^$third-party
 ||rnengage.com^$third-party
 ||rnet.plus^$third-party
