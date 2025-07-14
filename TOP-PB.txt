@@ -18,3 +18,4 @@
 ||ads.telewebion.com^$domain=telewebion.com
 ||analytics.telewebion.com^$domain=telewebion.com
 ||ads-azd*.telewebion.com^$domain=telewebion.com
+||intrack.ir^
