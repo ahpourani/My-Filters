@@ -22,6 +22,7 @@
 ||adtelligent.com^$third-party
 ||adthrive.com^$third-party
 ||advertising.com^$third-party
+||adxpremium.services^$third-party
 ||agkn.com^$third-party
 ||amazon-adsystem.com^$third-party
 ||amplitude.com^$third-party
@@ -41,6 +42,8 @@
 ||cedexis.com^$third-party
 ||chartbeat.com^$third-party
 ||clarity.ms^$third-party
+||clickadu.com^$third-party
+||clickadu.net^$third-party
 ||cloudflareinsights.com^$third-party
 ||cloudfront.net^$third-party
 ||connatix.com^$third-party
@@ -56,7 +59,10 @@
 ||doubleclick.net^$third-party
 ||doubleverify.com^$third-party
 ||e-planning.net^$third-party
+||ero-advertising.com^$third-party
 ||everesttech.net^$third-party
+||exoclick.com^$third-party
+||exosrv.com^$third-party
 ||eyeota.net^$third-party
 ||facebook.com^$third-party
 ||facebook.net^$third-party
@@ -78,6 +84,7 @@
 ||inmobi.com^$third-party
 ||inspectlet.com^$third-party
 ||instana.io^$third-party
+||juicyads.com^$third-party
 ||kargo.com^$third-party
 ||krxd.net^$third-party
 ||lijit.com^$third-party
@@ -87,6 +94,7 @@
 ||media.net^$third-party
 ||mixpanel.com^$third-party
 ||moatads.com^$third-party
+||monetag.com^$third-party
 ||mopub.com^$third-party
 ||nr-data.net^$third-party
 ||onesignal.com^$third-party
@@ -98,7 +106,11 @@
 ||outbrainimg.com^$third-party
 ||pagefair.com^$third-party
 ||pinterest.com^$third-party
+||plugrush.com^$third-party
+||popads.net^$third-party
+||popcash.net^$third-party
 ||primis.tech^$third-party
+||propellerads.com^$third-party
 ||pubmatic.com^$third-party
 ||quantcount.com^$third-party
 ||quantserve.com^$third-party
@@ -123,6 +135,9 @@
 ||tiktok.com^$third-party
 ||tiktokv.com^$third-party
 ||trafficfactory.biz^$third-party
+||trafficfactory.biz^$third-party
+||trafficjunky.com^$third-party
+||trafficjunky.net^$third-party
 ||tremorhub.com^$third-party
 ||tru.am^$third-party
 ||trustarc.com^$third-party
