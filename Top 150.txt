@@ -25,12 +25,14 @@
 ||advertising.com^$third-party
 ||adxpremium.services^$third-party
 ||agkn.com^$third-party
+||ahcdn.com^$third-party
 ||amazon-adsystem.com^$third-party
 ||amplitude.com^$third-party
 ||app.link^$third-party
 ||appsflyer.com^$third-party
 ||aqctawgidfka.com^$third-party
 ||atdmt.com^$third-party
+||axjndvucr.com^$third-party
 ||bidr.io^$third-party
 ||bidswitch.com^$third-party
 ||bidswitch.net^$third-party
@@ -72,6 +74,7 @@
 ||facebook.com^$third-party
 ||facebook.net^$third-party
 ||flashtalking.com^$third-party
+||flixcdn.com^$third-party
 ||fullstory.com^$third-party
 ||gemius.pl^$third-party
 ||getdrip.com^$third-party
@@ -84,12 +87,14 @@
 ||googletagmanager.com^$third-party
 ||googletagservices.com^$third-party
 ||gumgum.com^$third-party
+||hdbkome.com^$third-party
 ||heapanalytics.com^$third-party
 ||hotjar.com^$third-party
 ||indexww.com^$third-party
 ||inmobi.com^$third-party
 ||inspectlet.com^$third-party
 ||instana.io^$third-party
+||jasmin.ai^$third-party
 ||juicyads.com^$third-party
 ||kargo.com^$third-party
 ||krxd.net^$third-party
@@ -110,6 +115,7 @@
 ||openx.com^$third-party
 ||openx.net^$third-party
 ||optimizely.com^$third-party
+||orbsrv.com^$third-party
 ||outbrain.com^$third-party
 ||outbrainimg.com^$third-party
 ||pagefair.com^$third-party
@@ -124,6 +130,7 @@
 ||quantcount.com^$third-party
 ||quantserve.com^$third-party
 ||reddit.com^$third-party
+||rmhfrtnd.com^$third-party
 ||rubiconproject.com^$third-party
 ||salutetutortwiddling.com^$third-party
 ||scorecardresearch.com^$third-party
@@ -153,6 +160,7 @@
 ||trustarc.com^$third-party
 ||tsyndicate.com^$third-party
 ||turn.com^$third-party
+||twinrdengine.com^$third-party
 ||twitter.com^$third-party
 ||visualwebsiteoptimizer.com^$third-party
 ||w55c.net^$third-party
