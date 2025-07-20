@@ -21,6 +21,7 @@
 ||adsrvr.org^$third-party
 ||adtelligent.com^$third-party
 ||adthrive.com^$third-party
+||adtng.com^$third-party
 ||advertising.com^$third-party
 ||adxpremium.services^$third-party
 ||agkn.com^$third-party
@@ -48,6 +49,7 @@
 ||cloudfront.net^$third-party
 ||connatix.com^$third-party
 ||contentsquare.net^$third-party
+||contentsserved.com^$third-party
 ||crazyegg.com^$third-party
 ||criteo.com^$third-party
 ||criteo.net^$third-party
@@ -90,6 +92,7 @@
 ||lijit.com^$third-party
 ||lotame.com^$third-party
 ||luckyorange.com^$third-party
+||magsrv.com^$third-party
 ||mathtag.com^$third-party
 ||media.net^$third-party
 ||mixpanel.com^$third-party
@@ -110,6 +113,7 @@
 ||popads.net^$third-party
 ||popcash.net^$third-party
 ||primis.tech^$third-party
+||prncams.com^$third-party
 ||propellerads.com^$third-party
 ||pubmatic.com^$third-party
 ||quantcount.com^$third-party
@@ -130,17 +134,18 @@
 ||taboola.com^$third-party
 ||taboolasyndication.com^$third-party
 ||tapad.com^$third-party
+||tapioni.com^$third-party
 ||teads.tv^$third-party
 ||tealium.com^$third-party
 ||tiktok.com^$third-party
 ||tiktokv.com^$third-party
-||trafficfactory.biz^$third-party
 ||trafficfactory.biz^$third-party
 ||trafficjunky.com^$third-party
 ||trafficjunky.net^$third-party
 ||tremorhub.com^$third-party
 ||tru.am^$third-party
 ||trustarc.com^$third-party
+||tsyndicate.com^$third-party
 ||turn.com^$third-party
 ||twitter.com^$third-party
 ||visualwebsiteoptimizer.com^$third-party
