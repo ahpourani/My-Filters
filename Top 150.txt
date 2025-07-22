@@ -176,4 +176,4 @@
 ||zeotap.com^$third-party
 ||zergnet.com^$third-party
 @@||cloudfront.net^$domain=imdb.com
-@@||twimg.com^$domain=twitter.com
+@@||twitter.com^$domain=twitter.com
