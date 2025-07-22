@@ -1,6 +1,6 @@
 ! ===================================================================
-! Final Curated Blocklist (from user-provided list)
-! Version 2.0 - Last Reviewed: 2025-07-22
+! Final Curated Blocklist (from user-provided list) - Updated
+! Version 2.1 - Last Reviewed: 2025-07-22
 !
 ! This list has been refined to remove rules that cause site
 ! breakage and to eliminate obsolete entries. For comprehensive
@@ -13,9 +13,11 @@
 ! -------------------------------------------------------------------
 ||2mdn.net^$third-party
 ||33across.com^$third-party
+||360yield.com^$third-party
 ||3lift.com^$third-party
 ||ad.gt^$third-party
 ||adform.net^$third-party
+||admob.com^$third-party
 ||adnxs.com^$third-party
 ||adroll.com^$third-party
 ||adsafeprotected.com^$third-party
@@ -123,9 +125,8 @@
 ||zergnet.com^$third-party
 
 ! -------------------------------------------------------------------
-! 4. Social Media & Russian Platform Trackers
+! 4. Social Media & Platform Trackers
 ! -------------------------------------------------------------------
-||ad.mail.ru^$third-party
 ||facebook.net^$third-party
 ||snapchat.com^$third-party
 ||tiktok.com^$third-party
@@ -153,27 +154,3 @@
 ||trafficfactory.biz^$third-party
 ||trafficjunky.com^$third-party
 ||trafficjunky.net^$third-party
-
-! -------------------------------------------------------------------
-! 6. Rest
-! -------------------------------------------------------------------
-||360yield.com^$third-party
-||adition.com^$third-party
-||adtng.com^$third-party
-||adxpremium.services^$third-party
-||ahcdn.com^$third-party
-||btstatic.com^$third-party
-||contentsserved.com^$third-party
-||coosync.com^$third-party
-||flixcdn.com^$third-party
-||gmossp-sp.jp^$third-party
-||hdbkome.com^$third-party
-||jasmin.ai^$third-party
-||magsrv.com^$third-party
-||onetag-sys.com^$third-party
-||orbsrv.com^$third-party
-||prncams.com^$third-party
-||tapioni.com^$third-party
-||tru.am^$third-party
-||tsyndicate.com^$third-party
-||twinrdengine.com^$third-party
