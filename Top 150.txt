@@ -173,6 +173,7 @@
 ||yandex.ru^$third-party
 ||yieldlab.net^$third-party
 ||yieldmo.com^$third-party
+||yomeno.xyz^$third-party
 ||zeotap.com^$third-party
 ||zergnet.com^$third-party
 @@||cloudfront.net^$domain=imdb.com
