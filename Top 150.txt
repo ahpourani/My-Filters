@@ -175,5 +175,5 @@
 ||yieldmo.com^$third-party
 ||zeotap.com^$third-party
 ||zergnet.com^$third-party
-@@||amazon-adsystem.com^$domain=imdb.com
+@@||cloudfront.net^$domain=imdb.com
 @@||twimg.com^$domain=twitter.com
