@@ -175,3 +175,6 @@
 ||yieldmo.com^$third-party
 ||zeotap.com^$third-party
 ||zergnet.com^$third-party
+@@||m.media-amazon.com^$domain=imdb.com
+@@||ssl-images-amazon.com^$domain=imdb.com
+@@||twimg.com^$domain=twitter.com
