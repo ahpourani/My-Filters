@@ -153,3 +153,27 @@
 ||trafficfactory.biz^$third-party
 ||trafficjunky.com^$third-party
 ||trafficjunky.net^$third-party
+
+! -------------------------------------------------------------------
+! 6. Rest
+! -------------------------------------------------------------------
+||360yield.com^$third-party
+||adition.com^$third-party
+||adtng.com^$third-party
+||adxpremium.services^$third-party
+||ahcdn.com^$third-party
+||btstatic.com^$third-party
+||contentsserved.com^$third-party
+||coosync.com^$third-party
+||flixcdn.com^$third-party
+||gmossp-sp.jp^$third-party
+||hdbkome.com^$third-party
+||jasmin.ai^$third-party
+||magsrv.com^$third-party
+||onetag-sys.com^$third-party
+||orbsrv.com^$third-party
+||prncams.com^$third-party
+||tapioni.com^$third-party
+||tru.am^$third-party
+||tsyndicate.com^$third-party
+||twinrdengine.com^$third-party
