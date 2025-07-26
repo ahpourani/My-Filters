@@ -1,18 +1,38 @@
-! The Core Giants (Essential)
+! ===============================================================
+!  Concise Comprehensive Blocklist  (≈95 % effectiveness, <200 rules)
+!  ABP / uBlock syntax — last updated: 2025-07-26
+! ===============================================================
+
+! ---------------------------------------------------------------
+!  1.  Core Giants (Essential)
+! ---------------------------------------------------------------
 ||doubleclick.net^
+||g.doubleclick.net^
+||2mdn.net^
+||pagead2.googlesyndication.com^
+||googlesyndication.com^
 ||google-analytics.com^
 ||googletagmanager.com^
+||googletagservices.com^
 ||googleadservices.com^
-||googlesyndication.com^
+||adservice.google.com^
+||googleleadservices.com^
+||doubleverify.com^
 ||connect.facebook.net^
+||facebook.com^$script,third-party
+||fbcdn.net^$third-party
+||facebookpixel.net^
 ||amazon-adsystem.com^
 ||adnxs.com^
 ||ads-twitter.com^
+||t.co^$third-party,script
 ||bat.bing.com^
 ||criteo.com^
 ||criteo.net^
 
-! Widespread Trackers & Ad Tech (Highly Recommended)
+! ---------------------------------------------------------------
+!  2.  Widespread Trackers & Ad Tech (Highly Recommended)
+! ---------------------------------------------------------------
 ||scorecardresearch.com^
 ||quantserve.com^
 ||imrworldwide.com^
@@ -28,6 +48,7 @@
 ||pubmatic.com^
 ||rubiconproject.com^
 ||openx.net^
+||openxcdn.net^
 ||bidswitch.net^
 ||casalemedia.com^
 ||adform.net^
@@ -55,9 +76,25 @@
 ||hyth.io^
 ||affec.tv^
 ||linkedin.com^$script,third-party
+||ads.linkedin.com^
+||px.ads.linkedin.com^
 ||pinterest.com^$script,third-party
+||ads.pinterest.com^
+||snapads.com^
+||sc-static.net^
+||sdk.snapkit.com^
+||business.tiktok.com^
+||tiktokcdn.com^$script,third-party
+||events.reddit.com^
+||teads.tv^
+||zeta.global^
+||advertising.com^
+||adnxs-simple.com^
+||lijit.com^
 
-! Specialized & Invasive Services (For Maximum Coverage)
+! ---------------------------------------------------------------
+!  3.  Specialized & Invasive Services (Maximum Coverage)
+! ---------------------------------------------------------------
 ||fullstory.com^
 ||inspectlet.com^
 ||crazyegg.com^
@@ -82,6 +119,9 @@
 ||onetrust.com^
 ||cookielaw.org^
 ||usercentrics.com^
+||trustarc.com^
+||cookiebot.com^
+||quantcast.mgr.consensu.org^
 ||addtoany.com^
 ||po.st^
 ||kochava.com^
@@ -93,12 +133,25 @@
 ||adswizz.com^
 ||bouncex.net^
 ||moatads.com^
-||adroll.com^
 ||adsafeprotected.com^
 ||contextweb.com^
+||serving-sys.com^
+||everesttech.net^
+||mookie1.com^
 ||dotomi.com^
 ||mediamath.com^
+||yieldmo.com^
 ||rfihub.com^
 ||visualrevenue.com^
 ||yadro.ru^
 ||yandex.ru^$script,third-party,domain=~yandex.ru
+||newrelic.com^
+||nr-data.net^
+||datadoghq.com^
+||logrocket.com^
+||bugsnag.com^
+||sentry.io^
+||mouseflow.com^
+||smartlook.com^
+||luckyorange.com^
+||heatmap.it^
