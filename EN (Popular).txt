@@ -50,6 +50,10 @@
 ||hadronid.net^
 ||btloader.com^
 ||aditude.cloud^
+||pbxai.com^
+||4dex.io^
+||hyth.io^
+||affec.tv^
 ||linkedin.com^$script,third-party
 ||pinterest.com^$script,third-party
 
