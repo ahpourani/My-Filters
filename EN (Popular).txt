@@ -155,4 +155,4 @@
 ||smartlook.com^
 ||luckyorange.com^
 ||heatmap.it^
-||cloudfront.net^$third-party,domain=gsmarena.com
+||cloudfront.net^$domain=gsmarena.com
