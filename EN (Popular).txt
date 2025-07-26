@@ -44,6 +44,12 @@
 ||branch.io^
 ||adjust.com^
 ||appsflyer.com^
+||3lift.com^
+||360yield.com^
+||media.net^
+||hadronid.net^
+||btloader.com^
+||aditude.cloud^
 ||linkedin.com^$script,third-party
 ||pinterest.com^$script,third-party
 
