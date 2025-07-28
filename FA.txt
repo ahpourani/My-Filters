@@ -24,3 +24,4 @@
 ||1da.ir^$third-party
 ||1da.ir^$image
 ||amarfa.ir^
+||2ad.ir^$image
