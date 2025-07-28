@@ -19,3 +19,8 @@
 ||analytics.telewebion.com^$domain=telewebion.com
 ||ads-azd*.telewebion.com^$domain=telewebion.com
 ||intrack.ir^
+||a-ads.com^
+||zarpop.ir^
+||1da.ir^$third-party
+||1da.ir^$image
+||amarfa.ir^
