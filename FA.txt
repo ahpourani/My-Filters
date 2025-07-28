@@ -22,7 +22,7 @@
 ||prto.ir^
 ||sabaidea.cloud^$third-party
 ||sabavision.com^$third-party
-||soft98.ir/*.gif$image
+||img.soft98.ir/*.gif$image
 ||tavoos.net^
 ||theforge.ir^
 ||yektanet.com^
