@@ -26,4 +26,4 @@
 ||amarfa.ir^
 ||2ad.ir^$image
 ||kaprila.com^
-/.*\.gif$/image,domain=soft98.ir
+||soft98.ir/*.gif$image
