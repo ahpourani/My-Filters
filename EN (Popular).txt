@@ -27,7 +27,6 @@
 ||googlesyndication.com^
 ||googletagmanager.com^
 ||googletagservices.com^
-||pagead2.googlesyndication.com^
 ||t.co^$third-party,script
 
 ! ---------------------------------------------------------------
@@ -118,7 +117,6 @@
 ||everesttech.net^
 ||exelator.com^
 ||fullstory.com^
-||gravatar.com^$third-party
 ||gumgum.com^
 ||heap-api.com^
 ||heatmap.it^
@@ -165,7 +163,6 @@
 ||usercentrics.com^
 ||visualrevenue.com^
 ||vwo.com^
-||wp.com^$third-party
 ||yadro.ru^
 ||yandex.ru^$script,third-party,domain=~yandex.ru
 ||yieldlab.net^
