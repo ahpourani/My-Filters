@@ -4,8 +4,10 @@
 ||a-ads.com^
 ||adexo.ir^
 ||adexofiles.ir^
+||adengine.telewebion.com^$domain=telewebion.com
 ||ads-azd*.telewebion.com^$domain=telewebion.com
 ||ads.telewebion.com^$domain=telewebion.com
+||ads-bshto1201.telewebion.com^$domain=telewebion.com
 ||adtodate.net^
 ||amarfa.ir^
 ||analyt.ir^
