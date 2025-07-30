@@ -42,6 +42,7 @@
 ||metrix.ir^
 ||najva.com^
 ||pelikan-network.ir^
+||peivast.com/wp-content/uploads/*.gif$domain=peivast.com
 ||popupdl.ir^
 ||promizer.com^
 ||prto.ir^
