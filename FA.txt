@@ -11,11 +11,7 @@
 ||amarfa.ir^
 ||analyt.ir^
 ||analytics.nastooh.ir^
-||aparat.com/external/romeo^
-||aparat.com/gogol^
-||blogfa.com/a^$script
 ||chavosh.org^
-||dsp.aparat.com^
 ||e-rasaneh.ir^$third-party
 ||intrack.ir^
 ||kaprila.com^
@@ -31,9 +27,13 @@
 ||sentry.theforge.ir^
 ||tavoos.net^
 ||theforge.ir^
-||tracker.digikala.com^
 ||yektanet.com^
 ||zarpop.ir^
+
+! Aparat.com
+||aparat.com/external/romeo^
+||aparat.com/gogol^
+||dsp.aparat.com^
 
 ! Divar.ir
 ||a-banners.divarcdn.com/ssp/ads^$domain=divar.ir
@@ -51,11 +51,9 @@
 ||data.telewebion.com/broker/api/v1/message/page-view^$domain=telewebion.com
 ||hadeseh.telewebion.com^$domain=telewebion.com
 
+||tracker.digikala.com^$domain=digikala.com
 ||analytics.zoomit.ir^$domain=zoomit.ir
-||cdn.sharghdaily.com/servev2^$domain=sharghdaily.com
-||cdn.tabnak.ir/files/fa/adv^$domain=tabnak.ir
 ||peivast.com/wp-content/uploads/*.gif$domain=peivast.com
 ||static.tgju.org/advertisement^$domain=tgju.org
-||adsc.beytoote.com^$domain=beytoote.com
-||storage.beytoote.com/images/adsbeytoote^$domain=beytoote.com
 ||virgool.io/api2/app/posts/*/ad^^$domain=virgool.io
+||blogfa.com/a^$script
