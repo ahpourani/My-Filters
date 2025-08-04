@@ -57,3 +57,4 @@
 ||static.tgju.org/advertisement^$domain=tgju.org
 ||virgool.io/api2/app/posts/*/ad^^$domain=virgool.io
 ||blogfa.com/a^$script
+||shahrekhabar.com/banner$domain=shahrekhabar.com
