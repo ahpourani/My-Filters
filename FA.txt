@@ -53,8 +53,8 @@
 
 ||tracker.digikala.com^$domain=digikala.com
 ||analytics.zoomit.ir^$domain=zoomit.ir
-||peivast.com/wp-content/uploads/*.gif$domain=peivast.com
+||peivast.com/wp-content/uploads/*.gif$image,domain=peivast.com
 ||static.tgju.org/advertisement^$domain=tgju.org
 ||virgool.io/api2/app/posts/*/ad^^$domain=virgool.io
 ||blogfa.com/a^$script
-||shahrekhabar.com/banner$domain=shahrekhabar.com
+||shahrekhabar.com/banner$image,domain=shahrekhabar.com
