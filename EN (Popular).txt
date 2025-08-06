@@ -40,6 +40,7 @@
 ||aditude.cloud^
 ||adjust.com^
 ||adnxs-simple.com^
+||adroll.com^
 ||ads.linkedin.com^
 ||ads.pinterest.com^
 ||adsrvr.org^
@@ -58,12 +59,15 @@
 ||demdex.net^
 ||disqus.com^
 ||events.reddit.com^
+||flashtalking.com^
 ||hadronid.net^
 ||hotjar.com^
 ||hyth.io^
 ||imrworldwide.com^
+||krxd.net^
 ||lijit.com^
 ||linkedin.com^$script,third-party
+||mathtag.com^
 ||media.net^
 ||mgid.com^
 ||mixpanel.com^
@@ -89,6 +93,7 @@
 ||teads.tv^
 ||thetradedesk.com^
 ||tiktokcdn.com^$script,third-party
+||turn.com^
 ||zeta.global^
 
 ! ---------------------------------------------------------------
@@ -101,9 +106,11 @@
 ||adsafeprotected.com^
 ||adserver.org^
 ||adswizz.com^
+||adzerk.net^
 ||agkn.com^
 ||bouncex.net^
 ||bugsnag.com^
+||cedexis.com^
 ||chartbeat.com^
 ||chimpstatic.com^$third-party
 ||cloudflareinsights.com^$third-party
@@ -159,6 +166,7 @@
 ||spotxchange.com^
 ||tapad.com^
 ||trustarc.com^
+||tynt.com^
 ||urbanairship.com^
 ||usercentrics.com^
 ||visualrevenue.com^
