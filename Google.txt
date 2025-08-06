@@ -14,7 +14,3 @@ youtube.com##.ad-container, .ad-div, .masthead-ad-control
 
 ! --- YouTube Video Ad Network Requests ---
 ||youtube.com/api/stats/ads
-||googleads.g.doubleclick.net/pagead/id
-||*.googlesyndication.com/*
-||*.doubleclick.net/*
-||googleads.g.doubleclick.net/pagead/viewthroughconversion/*
